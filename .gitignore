@@ -1,5 +1,6 @@
-.bag
-.mp4
-.jpg
-.jpeg
-.avi
+*.bag
+*.mp4
+*.jpg
+*.jpeg
+*.avi
+*.bag
